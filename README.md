@@ -5,6 +5,7 @@ Este projeto é uma simples aplicação Java que utiliza a API do IBGE para cons
 ## Funcionalidades 
 
 - Consulta informações de um estado específico com base na sigla do estado.
+- Consulta informações de um distrito específico com base no id do distrito.
 
 ## Testes unitários implementados
 
