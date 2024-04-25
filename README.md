@@ -23,3 +23,6 @@ Este projeto é uma simples aplicação Java que utiliza a API do IBGE para cons
 
 [Link do projeto no Sonarcloud](https://sonarcloud.io/project/overview?id=Lucas-Araujo15_checkpoint_02_QA)
 
+## Cobertura de testes unitários
+<img src="https://github.com/Lucas-Araujo15/checkpoint_02_QA/blob/main/report_jacoco_01.PNG">
+<img src="https://github.com/Lucas-Araujo15/checkpoint_02_QA/blob/main/report_jacoco_02.PNG">
